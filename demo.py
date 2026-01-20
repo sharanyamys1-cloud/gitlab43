@@ -1,1 +1,1 @@
-print("Experiment 5 :cloning ")
+print("Experiment 6 : merging ")
