@@ -1,1 +1,1 @@
-print("Experiment 2 : managing branches")
+print("Experiment 3 : stashing")
